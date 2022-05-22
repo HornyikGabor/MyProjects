@@ -1,0 +1,42 @@
+﻿<Window x:Class="UIModul.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UIModul"
+        mc:Ignorable="d"
+        Title="Mindig Fenyes Kft" Height="450" Width="800">
+    <Grid>
+        <Label Content="Mindig Fényes kft" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" 
+               Background="#FF00AFA2" Width="800" BorderThickness="0,0,0,0" Height="80" FontSize="40" FontStretch="Medium" FontWeight="Bold" FontFamily="Algerian" Grid.ColumnSpan="2"
+               />
+        <StackPanel Width="400" Margin="0,80,0,-1" HorizontalAlignment="Left" RenderTransformOrigin="0.527,0.584" Grid.ColumnSpan="2" >
+            <Button Content="Munkatárs elvégzett munkái" Width="250
+                    " Height="40" Margin="0,35,0,35" Background="#FFFFE71F" FontSize="18" Click="Button_Click" FontWeight="Bold" BorderThickness="5,1,1,5" >
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Content="Elvégzett összes munka/hó" Width="250" Height="40" Margin="0,35,0,35" Background="#FFFFE720" FontSize="18" Click="Button_Click_1" FontWeight="Bold" BorderThickness="5,1,1,5" ClipToBounds="True" >
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Content="Feladatok típus szerint" Width="250" Height="40" Margin="0,35,0,35" Background="#FFFFE71F" FontSize="18" Click="Button_Click_2" FontWeight="Bold" BorderThickness="5,1,1,5">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+        </StackPanel>
+        <Image Source="image.jpg" HorizontalAlignment="Left" Height="384" Margin="367,80,0,0" VerticalAlignment="Top" Width="399" Grid.Column="1" />
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,44 @@
+﻿<Window x:Class="UIModul.ElvegzettMunkaPerTipus"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UIModul"
+        mc:Ignorable="d"
+        Title="ElvegzettMunkaPerTipus" Height="450" Width="800">
+    <Grid Background="#FF00AFA2">
+        <Label Content="Feladatok típusa szerint csoportosí"  HorizontalContentAlignment="Center" 
+               VerticalContentAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Top" Width="800" 
+               Height="69" Background="#FF00AFA2" FontSize="25" FontWeight="Normal" FontFamily="Bernard MT Condensed"/>
+        <ListBox Name="Feladatok2" Margin="385,69,0,0"  Background="#FF00AFA2"
+                  FontSize="15" BorderThickness="0,0,0,0" />
+        <StackPanel Margin="0,69,415,0" Background="#FF00AFA2">
+            <TextBox Name="textbox3" TextWrapping="Wrap"  Width="350" Margin="0,25,0,25" Height="38"/>
+            <Button Content="Keresés" Width="192" Height="40" Background="#FFFFE720" FontSize="18" Click="Button_Click_1"
+                    FontWeight="Bold" BorderThickness="5,1,1,5" ClipToBounds="True" Margin="0,0,20,25"
+                    HorizontalContentAlignment="Center" HorizontalAlignment="Right">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Content="Menu" Click="Button_Click" Width="192" Height="40" Margin="0,0,20,25" HorizontalAlignment="Right" Background="#FFFFE720" FontWeight="Bold" FontSize="18" BorderThickness="5,1,1,5">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Content="Mentés" Width="192" Height="40" Margin="0,0,20,25" HorizontalAlignment="Right" 
+                    Background="#FFFFE720" FontWeight="Bold" FontSize="18" BorderThickness="5,1,1,5" Click="Button_Click_2">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </StackPanel>
+
+    </Grid>
+</Window>
