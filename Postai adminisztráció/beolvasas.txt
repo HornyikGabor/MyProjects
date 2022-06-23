@@ -1,0 +1,104 @@
+Letter 1
+A LEVEL ELSOBBSEGI!
+180
+190
+szemelyes
+nemzetkozi
+ajanlott
+Kovacs Jancsi 1223 Mohacs utca 13.
+Hornyik Gabor 1132 Martir ut 23.
+Kedves Kovacs Jancsi! Orommel ertesitjuk, hogy felvetelt nyert cegunkhoz leveltarosi munkakorben bruttos 300 ezer Ft-os fizetesert.	
+
+Letter 2
+A LEVEL NEM ELSOBBSEGI!
+170
+180
+meghivo
+belfoldi
+ajanlott
+Kiss Piroska 3464 Tahitot ut 7.
+Mate Peter 1234 Budapest Futrinka utca 3.
+Kedves Kiss Piroska! Ezuton szeretnenk meghivni az eves ceges rendezvenyre, melyre alkalomhoz illo ruhaban varjuk sok szeretettel.	
+
+Letter 3
+A LEVEL ELSOBBSEGI!
+180
+190
+szemelyes
+nemzetkozi
+teritveny
+Peter Pal 4352 Nandor utca 32.
+Hornyik Gabor 1132 Kiraly ut 70.
+Kedves Peter Pal! Blablablablabla bla blabla bla
+
+Check 1
+vagott
+20000
+megnevezettre
+utazasi
+23456-12389
+Peter Pal 4352 Nandor utca 32.
+Hornyik Gabor 1101 Budapest Vandor ter 12.
+Szemetszallitasi dij elszamolas.
+
+Check 2
+ivesitett
+15000
+bemutatora
+bankcsekk
+24232-1324335
+Kovacs Jancsi 1223 Mohacs utca 13.
+Hornyik Gabor 1101 Budapest  Vandor ter 12.
+Viz, gaz kolteseg elszamolasa.
+
+Check 3
+szamlalevel
+6000
+keresztezett
+elszamolo
+24656-12321
+Kiss Piroska 3464 Tahitot ut 7.
+Mate Peter 1234 Budapest Futrinka utca 3.
+Gimnaziumi, havi ebed koltsegeinek elszamolasa.
+
+Bills 1
+A LEVEL ELSOBBSEGI!
+170
+180
+ajanlott
+szamla
+belfoldi
+iPhone SE 2020 64/3 GB fekete
+150000
+Kiss Piroska 3464 Tahitot ut 7.
+24656-12321
+Hornyik Gabor 1101 Budapest Vandor ter 12.
+Elektronikus zrt alltal kiadott szamla, az ar AFA-t nem tartalmazza.
+
+Bills 2
+A LEVEL NEM ELSOBBSEGI!
+150
+130
+ajanlott
+szamla
+nemzetkozi
+2 db Mercedes AMG gepjarmu
+60000000
+Kovacs Jancsi 1223 Mohacs utca 13.
+123124-123211
+Hornyik Gabor 1132 Martir ut 23.
+A szamla 2 db vadonatuj Mercedes gepkocsi eladasara lett kiallitva az osszeg AFAt tartalmazza.
+
+Bills 3
+A LEVEL ELSOBBSEGI!
+150
+130
+teritveny
+szamla
+nemzetkozi
+15 doboz elso osztalyu banan
+500000
+Kiss Piroska 3464 Tahitot ut 7.
+24232-1324335
+Hornyik Gabor 1101 Budapest  Vandor ter 12.
+15 doboz, dobozonkent 15 kg banan a bananok 1 kg-jara eso egysegara 2222 Ft.
